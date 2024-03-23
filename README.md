@@ -40,6 +40,8 @@ plt.scatter(df1[:,0], df1[:,1], c=model.labels_, cmap='rainbow')
 
 
 
+#Observations:Within the spread, we can see that five separate clusters have been created, forming the agglomerative cluster of five clusters.
+#The cluster is represented by red, green, blue, violet, and yellow.
 
 
 
